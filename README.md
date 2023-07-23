@@ -59,6 +59,19 @@ Using dbt-snowflake connector
 - [x] seeds and sources
 - [x] snapshots
 - [x] tests
-- [ ] Macros, custom tests and packages
+- [x] Macros, custom tests and packages
 - [ ] Documentation
 - [ ] Analysis, hooks and exposures
+
+# dbt cheat sheet
+- dbt snapshop
+- dbt run
+- dbt test
+- dbt test --select dim_listings_cleansed
+- dbt seed
+
+
+### Credits
+** credits to Zoltan C. Toth for providing these learning tools for dbt.
+
+To learn and understand every single concept in this repository, [check for the course](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt).
