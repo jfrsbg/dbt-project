@@ -60,6 +60,6 @@ Using dbt-snowflake connector
 - [x] seeds and sources
 - [x] snapshots
 - [x] tests
-- [] Macros, custom tests and packages
-- [] Documentation
-- [] Analysis, hooks and exposures
+- [ ] Macros, custom tests and packages
+- [ ] Documentation
+- [ ] Analysis, hooks and exposures
