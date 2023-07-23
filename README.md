@@ -66,10 +66,13 @@ Using dbt-snowflake connector
 # dbt cheat sheet
 - dbt snapshop
 - dbt run
+- dbt run --full-refresh --select fct_review: refresh the incremental table and select only the selected model
 - dbt test
-- dbt test --select dim_listings_cleansed
+- dbt test --select dim_listings_cleansed: test only selected model
 - dbt seed
-
+- dbt deps: install dependencies
+- dbt docs generate: generate docs
+- dbt docs serve: serve docmentation page in your web browser
 
 ### Credits
 ** credits to Zoltan C. Toth for providing these learning tools for dbt.
