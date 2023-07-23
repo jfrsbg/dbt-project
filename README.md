@@ -3,8 +3,7 @@ The project is divided into sections as I'm making progress in the course. This 
 
 ## About data
 
-The source data is from http://insideairbnb.com/ and it's already pre-prepared for the course's instructors. 
-pre-requistes/. You can find the data I'm working with in the data/ folder.
+The source data is from http://insideairbnb.com/ and it's already pre-prepared for the course's instructors. You can find the data I'm working with in pre-requistes/ folder.
 
 ## dbt connector
 Using dbt-snowflake connector
